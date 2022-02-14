@@ -25,15 +25,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, img, ol, ul, li, form, table, tr, th, td 
     list-style: none;
     margin: 0;
     padding: 0;
-}
-body, .b_promoteText, #b_tween a.ftrH, #b_tween a.ftrH:hover, .b_expando, .b_expando h2, .b_active a, .b_active a:visited, .b_active a:hover, #b_results>.b_pag a, #b_results .b_no, #b_content a.cbl:visited, #b_content a.cbl {
-    color: #666;
-}
-user agent stylesheet
-body {
-    display: block;
-    margin: 8px;
-}
+
 :root {
     --lgutter: 160px;
     --lgutterrev: -160px;
@@ -43,4 +35,5 @@ body {
     --rgutter: 80px;
     --crleft: 888px;
     --bminwidth: 1320px;
-}
+} hi there what up
+
