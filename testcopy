@@ -1,0 +1,40 @@
+this file is for test
+lement.style {
+}
+html body, body #b_header {
+    min-width: var(--bminwidth,1362px);
+}
+@media (max-width: 1274.9px)
+body {
+    --bminwidth: 1164px;
+}
+@media (max-width: 1362.9px)
+body {
+    --bminwidth: 1232px;
+}
+body, #b_header {
+    min-width: 1204px;
+}
+body, .b_no h4, h2 .b_secondaryText, h2 .b_alert, .b_underSearchbox, #b_header {
+    font: 14px/normal 'Roboto',Helvetica,Sans-Serif;
+}
+html, body, h1, h2, h3, h4, h5, h6, p, img, ol, ul, li, form, table, tr, th, td {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+:root {
+    --lgutter: 160px;
+    --lgutterrev: -160px;
+    --polepadl: 180px;
+    --polepadl2: 120px;
+    --dtabpadl: 120px;
+    --rgutter: 80px;
+    --crleft: 888px;
+    --bminwidth: 1320px;
+} hi there what up
+
+added from cli git bash
